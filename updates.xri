@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0" xmlns="http://www.pixinsight.com/xri/1.0">
+<repository id="PiMagicRepo" version="1.0.0" name="PiMagic Repository" description="A repository for the PiMagic script." infoURL="https://github.com/csasse123/PiMagic-PixInsight">
+<release date="2025-08-29" infoURL="https://github.com/csasse123/PiMagic-PixInsight"/>
+<platform os="any" arch="any">
+<version from="1.8.9-1" to="*.*.*">
+<package fileName="PiMagic-1.0.0.tar.gz" sha1="f128f3257d7c57cdc46f453cc4875b64bfe2d401" type="script" releaseDate="2025-08-29" src="https://raw.githubusercontent.com/csasse123/PiMagic-PixInsight/main/PiMagic-1.0.0.tar.gz">
+<description>PiMagic Script v1.0.0</description>
+</package>
+</version>
+</platform>
+</repository>
+</xri>
